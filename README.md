@@ -1,5 +1,5 @@
 # quickfixuser-master
-![download (1)](https://user-images.githubusercontent.com/97398202/148983966-b6600d8c-6f13-4ed0-a053-2ed64cafb315.jpg)
+![bg4](https://user-images.githubusercontent.com/97398202/148988146-e5de95fb-80c5-4070-a6ba-bb0a95737f67.jpg)
  <h1 align="center">Hi 👋, I'm Qamar Abbas</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
